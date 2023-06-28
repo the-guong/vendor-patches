@@ -1,5 +1,5 @@
 {
-    "name": "migrify/vendor-patches",
+    "name": "the-guong/vendor-patches",
     "description": "Generate vendor patches for packages with single command",
     "license": "MIT",
     "bin": [
